@@ -1,3 +1,3 @@
 # Waste Classification
-Convolutional Neural Network - Final Project
+Final Project - Convolutional Neural Network
 
