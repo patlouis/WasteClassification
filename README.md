@@ -16,4 +16,11 @@ Presentation
   - imgs identical to og model
 - Waste_Classification
   - adjust img sizes (224x224 -> 32x32)
+    - a:87%/va:90% (10s/epoch)
+  - 64x64
+    - a:89%/va:89% (25s/epoch)
   - update prediction img location
+- Add img filtering 
+- Add sample image visualization
+- Updated training and validation sets from DirectoryIterators to TensorFlow data sets
+  - Difference between a. and v.a. is more significant (~5%-6%)
