@@ -8,6 +8,9 @@ Documentation
 Presentation
 - ...
 
+## Added VGG Model
+- Base model; no adjustments
+  - 50min/epoch
 ## ChangeLog
 - Add dataset to directory
 - Add Model Comparison folder
