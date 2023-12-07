@@ -24,3 +24,6 @@ Presentation
 - Add sample image visualization
 - Updated training and validation sets from DirectoryIterators to TensorFlow data sets
   - Difference between a. and v.a. is more significant (~5%-6%)
+- Add mixed precision
+  - 32x32 -> 6s/epoch
+  - 64x64 -> 20s/epoch
