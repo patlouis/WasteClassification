@@ -15,3 +15,5 @@ Presentation
 - Tweaks
   - Image Size -> 32x32
   - Add mixed precision
+  - Add callback (early stopping)
+  - Add callback (model checkpoint)
