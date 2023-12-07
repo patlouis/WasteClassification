@@ -17,3 +17,4 @@ Presentation
   - Add mixed precision
   - Add callback (early stopping)
   - Add callback (model checkpoint)
+  - Add MaxPooling
