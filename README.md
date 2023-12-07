@@ -12,5 +12,6 @@ Presentation
 - Base model; no adjustments
   - 50min/epoch
 
-- Fixes
+- Tweaks
   - Image Size -> 32x32
+  - Add mixed precision
