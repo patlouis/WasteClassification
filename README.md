@@ -18,3 +18,4 @@ Presentation
   - Add callback (early stopping)
   - Add callback (model checkpoint)
   - Add MaxPooling
+  - Add Global Average Pooling 2D
